@@ -12,10 +12,6 @@ public class UserService {
     @Autowired(required = false)
     private UserMapper userMapper;
 
-//    public User findUserById(Integer id) {
-//        return userMapper.findUserById(id);
-//    }
-
     public User findUserByEmail(String email) {
         return userMapper.findUserByEmail(email);
     }
@@ -24,15 +20,19 @@ public class UserService {
         return userMapper.findUserByName(name);
     }
 
-//    public void insertUser(User user) {
-//        userMapper.insertUser(user);
-//    }
-//
-//    public void deleteUser(User user) {
-//        userMapper.deleteUser(user);
-//    }
-//
-//    public void updateUserInfo(User user) {
-//        userMapper.updateUserInfo(user);
-//    }
+    public User findUserById(Integer id) {
+        return userMapper.findUserById(id);
+    }
+
+    public void insertUser(User user) {
+        userMapper.insertUser(user);
+    }
+
+    public void deleteUser(Integer id) {
+        userMapper.deleteUser(id);
+    }
+
+    public void updateUserInfo(User user) {
+        userMapper.updateUserInfo(user);
+    }
 }

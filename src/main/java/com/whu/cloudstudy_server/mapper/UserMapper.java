@@ -7,10 +7,10 @@ import java.util.List;
 
 @Mapper
 public interface UserMapper {
-    //User findUserById(Integer id);
+    User findUserById(Integer id);
     User findUserByEmail(String email);
     List<User> findUserByName(String name);
-//    void insertUser(User user);
-//    void deleteUser(User user);
-//    void updateUserInfo(User user);
+    void insertUser(User user);
+    void deleteUser(Integer id);
+    void updateUserInfo(User user);
 }
