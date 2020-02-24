@@ -95,6 +95,6 @@ Postman中测试
 
 [springboot系列 | 与mybatis整合](https://blog.csdn.net/u011320740/article/details/79256807?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 
-[Mybatis 教程]([https://www.w3cschool.cn/mybatis/](https://www.w3cschool.cn/mybatis))
+[Mybatis中的update动态SQL语句](https://blog.csdn.net/muzi1314_/article/details/73692309)
 
-
+[Mybatis 教程]([https://www.w3cschool.cn/mybatis/](https://www.w3cschool.cn/mybatis)
