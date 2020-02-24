@@ -93,6 +93,8 @@ Postman中测试
 
 [基于 SpringBoot2.0+优雅整合 SpringBoot+Mybatis]([https://segmentfault.com/a/1190000017211657#item-2-7](https://segmentfault.com/a/1190000017211657#item-2-7)
 
+[springboot系列 | 与mybatis整合](%5Bhttps://blog.csdn.net/u011320740/article/details/79256807?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task%5D(https://blog.csdn.net/u011320740/article/details/79256807?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+
 [Mybatis 教程]([https://www.w3cschool.cn/mybatis/](https://www.w3cschool.cn/mybatis/)
 
 
